@@ -1,28 +1,25 @@
-# This is a large heading
+# Yue Pan
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Xuzhou, Jiangsu, China.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Harry Potter* by J. K. Rowling
+- *Jane Eyre* by Charlotte Bronte
+- *The Three Body Problem* by Xinci Liu
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night, I cooked the dinner for myself:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Tomato Soup
+2. Chinese Dumplings
+3. Fried Shrimps.
+
+### Contact
+
+The best way to get in touch with me is [on Weibo](https://www.weibo.com/3120025077/profile?rightmod=1&wvr=6&mod=personinfo).
